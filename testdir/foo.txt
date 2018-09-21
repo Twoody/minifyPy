@@ -1,0 +1,7 @@
+function foo(bar){
+	var baz = 0;
+	var x = z;
+	for(i in stuff){
+		print(look at me now)
+	}
+}
